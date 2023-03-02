@@ -1,0 +1,6 @@
+rootProject.name = 'webchat'
+include 'server'
+include 'client'
+include 'Logger'
+include 'ConfigParser'
+
